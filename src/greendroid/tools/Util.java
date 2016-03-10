@@ -137,7 +137,7 @@ public class Util {
     }
     
     public static void createRadar(String className, TracedMethod method){
-        String filename = "D:/tests/"+className+"."+method.getMethod()+".js";
+        String filename = "E:/users/murcio.filho/Workspace/Eclipse/tests/"+className+"."+method.getMethod()+".js";
         System.out.println(filename);
         ArrayList<Integer> list = new ArrayList(); 
         list.add(method.getGreen()); list.add(method.getRed()); list.add(method.getYellow()); list.add(method.getOrange()); 

@@ -177,7 +177,7 @@ public class Main {
                 System.gc();
                 System.out.println("DONE!");
             }
-            List<Long> means = Util.readLongsFromFile(config.getDeviceResDir()+"meansSecond.txt");
+            List<Long> means = Util.readLongsFromFile(config.getLocalResDir()+"meansSecond.txt");
             averageSecond = Util.average(means);
             System.out.println("Average Consumption p/ second: "+averageSecond);
 /**/
