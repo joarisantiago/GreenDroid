@@ -428,7 +428,7 @@ public class ProjectAnalyser {
         /*'generateResults()' is invoked here to assure that the last trace is treated */
         //readFromMatrix();
         generateResults();
-        //saveTestResults();
+        saveTestResults();
     }
     
     /**Calculates the resulting statistics for the project and corresponding files */

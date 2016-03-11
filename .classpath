@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/jackson-annotations-2.2.3.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-2.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-databind-2.2.4.jar"/>
+	<classpathentry kind="lib" path="libs/javaparser-1.0.8.jar"/>
+	<classpathentry kind="lib" path="libsAdded/android-junit-report-1.5.8.jar"/>
+	<classpathentry kind="lib" path="libsAdded/greendroid.jar"/>
+	<classpathentry kind="lib" path="libsAdded/polidea_test_runner_1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
